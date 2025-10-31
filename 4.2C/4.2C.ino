@@ -14,7 +14,7 @@ const uint16_t MQTT_PORT = 1883;
 const char* TOPIC = "SIT210/wave"; // publish + subscribe
 
 // Put YOUR NAME here exactly as you want in the payload
-const char* YOUR_NAME = "kartik sharma";
+const char* YOUR_NAME = "Jaideep";
 
 // ---------- PINS ----------
 #define TRIG_PIN   9
